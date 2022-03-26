@@ -1,1 +1,2 @@
-# pirstes-game
+# PiratesInvasion
+pirates invasion game
